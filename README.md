@@ -39,4 +39,4 @@
 	2-2 **동작 과정**
 	-- 렌더링 엔진은 통신으로 요청한 문서를 얻는 것 부터 시작하는데 문서의 내용은 보통 8KB단위로 전송된다.
 > 
-!\[렌더링 동작과정](https://github.com/JSPlike/python_web_crawler/blob/master/example/%EB%A0%8C%EB%8D%94%EB%A7%81_%EB%8F%99%EC%9E%91%EA%B3%BC%EC%A0%95.png)
+![](https://github.com/JSPlike/python_web_crawler/raw/master/example/%EB%A0%8C%EB%8D%94%EB%A7%81_%EB%8F%99%EC%9E%91%EA%B3%BC%EC%A0%95.png)
